@@ -11,3 +11,18 @@ a {
   flex-direction: centre;
   align-items: 0;
 }
+
+.icon {
+  position: relative;
+  height: 8em;
+  width: 8em;
+}
+
+.icon svg {
+  left: 0
+  height: 100%;
+  position: absolute;
+  top: 0;
+  widows: 100%;
+  fill: currentColor;
+}
