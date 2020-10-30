@@ -10,6 +10,12 @@ a {
   display: flex;
   flex-direction: centre;
   align-items: 0;
+  color: #76a500;
+}
+
+a:hover,
+a:focus {
+  color: #acc300;
 }
 
 .icon {
